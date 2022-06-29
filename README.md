@@ -7,7 +7,7 @@
 ---
 
 ```
-# Título ## Título ### Título "Quanto mais #, diminui o tamanho do título"
+# Título ## Título ### Título "Quanto mais (#), diminui o tamanho do título"
 ```
 ```
 **Negrito** ou __Negrito__
@@ -47,7 +47,8 @@ Texto | Texto2 | Texto3
 `Texto`  "Destaca a fraze com um fundo cinza"
 \```
 Texto
-\```  "Tudo que estiver escrito no meio das crases(sem as barras invertidas) é destacado com um fundo cinza"
+\```  "Tudo que estiver escrito no meio das crases(sem as barras invertidas) 
+é destacado com um fundo cinza"
 ```
 ```
 ~~~Título
